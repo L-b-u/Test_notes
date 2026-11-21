@@ -1,0 +1,12 @@
+# 本地临时/诊断文件，不进仓库
+.acl-reports/
+.tmp/
+.dsh-*
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+~$*
+*~
+.vscode/
+.idea/
