@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="470" viewBox="0 0 880 470">
+<rect width="880" height="470" fill="#ffffff"/>
+<text x="24" y="32" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="18" fill="#1a1a1a" text-anchor="start" font-weight="bold">图10　推挽输出与开漏输出</text>
+<text x="60" y="66" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="15" fill="#1a1a1a" text-anchor="start" font-weight="bold">推挽（Push-Pull）</text>
+<text x="120" y="82" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="13" fill="#1a1a1a" text-anchor="middle" font-weight="bold">VCC</text>
+<line x1="120" y1="90" x2="120" y2="140" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="95" y="140" width="50" height="44" rx="0" fill="#ffffff" stroke="#1f5fbf" stroke-width="2"/>
+<text x="120" y="168" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="15" fill="#1f5fbf" text-anchor="middle" font-weight="bold">P</text>
+<line x1="120" y1="184" x2="120" y2="240" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="95" y="240" width="50" height="44" rx="0" fill="#ffffff" stroke="#c62828" stroke-width="2"/>
+<text x="120" y="268" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="15" fill="#c62828" text-anchor="middle" font-weight="bold">N</text>
+<line x1="120" y1="284" x2="120" y2="330" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="120" y1="330" x2="120" y2="342" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="96" y1="342" x2="144" y2="342" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="105" y1="350" x2="135" y2="350" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="114" y1="358" x2="126" y2="358" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="145" y1="212" x2="260" y2="212" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="270" cy="212" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<text x="280" y="218" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="13" fill="#1a1a1a" text-anchor="start" font-weight="normal">输出</text>
+<text x="60" y="380" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="13" fill="#8a8a8a" text-anchor="start" font-weight="normal">输出既能拉高（P 导通）也能拉低（N 导通），驱动能力强。</text>
+<text x="500" y="66" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="15" fill="#1a1a1a" text-anchor="start" font-weight="bold">开漏（Open-Drain）</text>
+<text x="560" y="82" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="13" fill="#1a1a1a" text-anchor="middle" font-weight="bold">VCC</text>
+<line x1="560" y1="90" x2="560" y2="120" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="535" y="120" width="50" height="40" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<text x="560" y="146" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="13" fill="#1a1a1a" text-anchor="middle" font-weight="normal">R 上拉</text>
+<line x1="560" y1="160" x2="560" y2="240" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="535" y="240" width="50" height="44" rx="0" fill="#ffffff" stroke="#c62828" stroke-width="2"/>
+<text x="560" y="268" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="15" fill="#c62828" text-anchor="middle" font-weight="bold">N</text>
+<line x1="560" y1="284" x2="560" y2="330" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="560" y1="330" x2="560" y2="342" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="536" y1="342" x2="584" y2="342" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="545" y1="350" x2="575" y2="350" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="554" y1="358" x2="566" y2="358" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="500" y1="200" x2="640" y2="200" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="650" cy="200" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<text x="660" y="206" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="13" fill="#1a1a1a" text-anchor="start" font-weight="normal">输出</text>
+<circle cx="560" cy="200" r="4" fill="#1a1a1a"/>
+<text x="500" y="380" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="13" fill="#8a8a8a" text-anchor="start" font-weight="normal">只能拉低；拉高靠外部上拉电阻。多个开漏可“线与”，I2C 就是这么做的。</text>
+<text x="24" y="440" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="start" font-weight="normal">测试要点：开漏输出的高电平由外部上拉与漏电流决定，测 VOH 时别忘了接上拉。</text>
+</svg>

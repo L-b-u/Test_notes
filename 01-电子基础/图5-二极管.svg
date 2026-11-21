@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="430" viewBox="0 0 780 430">
+<rect width="780" height="430" fill="#ffffff"/>
+<text x="24" y="32" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="18" fill="#1a1a1a" text-anchor="start" font-weight="bold">图5　二极管：符号与伏安特性</text>
+<line x1="80" y1="150" x2="150" y2="150" stroke="#1a1a1a" stroke-width="2"/>
+<polygon points="150,120 150,180 205,150" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="205" y1="118" x2="205" y2="182" stroke="#1a1a1a" stroke-width="3"/>
+<line x1="205" y1="150" x2="280" y2="150" stroke="#1a1a1a" stroke-width="2"/>
+<text x="105" y="138" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="middle" font-weight="normal">阳极 A</text>
+<text x="240" y="138" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="middle" font-weight="normal">阴极 K</text>
+<text x="180" y="210" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1f5fbf" text-anchor="middle" font-weight="normal">正向导通：压降约 0.7 V</text>
+<line x1="400" y1="90" x2="400" y2="240" stroke="#1a1a1a" stroke-width="1.8"/>
+<polygon points="400,90 402.6,96.5 397.4,96.5" fill="#1a1a1a"/>
+<line x1="320" y1="240" x2="740" y2="240" stroke="#1a1a1a" stroke-width="1.8"/>
+<polygon points="740,240 733.5,242.6 733.5,237.4" fill="#1a1a1a"/>
+<text x="745" y="258" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="start" font-weight="normal">u</text>
+<text x="390" y="84" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="end" font-weight="bold">i</text>
+<polyline points="220.0,240.0 222.2,240.0 224.5,240.0 226.8,240.0 229.0,240.0 231.2,240.0 233.5,240.0 235.8,240.0 238.0,240.0 240.2,240.0 242.5,240.0 244.8,240.0 247.0,240.0 249.2,240.0 251.5,240.0 253.8,240.0 256.0,240.0 258.2,240.0 260.5,240.0 262.8,240.0 265.0,240.0 267.2,240.0 269.5,240.0 271.8,240.0 274.0,240.0 276.2,240.0 278.5,240.0 280.8,240.0 283.0,240.0 285.2,240.0 287.5,240.0 289.8,240.0 292.0,240.0 294.2,240.0 296.5,240.0 298.8,240.0 301.0,240.0 303.2,240.0 305.5,240.0 307.8,240.0 310.0,240.0 312.2,240.0 314.5,240.0 316.8,240.0 319.0,240.0 321.2,240.0 323.5,240.0 325.8,240.0 328.0,240.0 330.2,240.0 332.5,240.0 334.8,240.0 337.0,240.0 339.2,240.0 341.5,240.0 343.8,240.0 346.0,240.0 348.2,240.0 350.5,240.0 352.8,240.0 355.0,240.0 357.2,240.0 359.5,240.0 361.8,240.0 364.0,240.0 366.2,240.0 368.5,240.0 370.8,240.0 373.0,240.0 375.2,240.0 377.5,240.0 379.8,240.0 382.0,240.0 384.2,240.0 386.5,240.0 388.8,240.0 391.0,240.0 393.2,240.0 395.5,240.0 397.8,240.0 400.0,240.0 402.2,240.0 404.5,240.0 406.8,240.0 409.0,240.0 411.2,240.0 413.5,240.0 415.8,240.0 418.0,240.0 420.2,240.0 422.5,240.0 424.8,239.2 427.0,238.2 429.2,237.0 431.5,235.7 433.8,234.2 436.0,232.4 438.2,230.3 440.5,227.9 442.8,225.1 445.0,221.9 447.2,218.1 449.5,213.7 451.8,208.7 454.0,202.7 456.2,195.9 458.5,187.9 460.8,178.6 463.0,167.8 465.2,155.3 467.5,140.8 469.8,123.9 472.0,104.2" fill="none" stroke="#1f5fbf" stroke-width="2.6"/>
+<line x1="431.5" y1="240" x2="431.5" y2="110" stroke="#8a8a8a" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="437.5" y="232" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#c62828" text-anchor="start" font-weight="bold">0.7 V</text>
+<text x="394" y="256" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="12" fill="#8a8a8a" text-anchor="end" font-weight="normal">反向：漏电很小</text>
+<text x="24" y="390" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="start" font-weight="normal">硅管正向压降 0.7 V、锗管 0.2~0.3 V；反向截止。三极管的发射结就是这样一个 PN 结。</text>
+</svg>

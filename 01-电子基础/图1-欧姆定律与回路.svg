@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="760" height="420" fill="#ffffff"/>
+<text x="24" y="34" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="18" fill="#1a1a1a" text-anchor="start" font-weight="bold">图1　欧姆定律与回路（KVL）</text>
+<line x1="150" y1="110" x2="150" y2="193.0" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="124" y1="193.0" x2="176" y2="193.0" stroke="#1a1a1a" stroke-width="3"/>
+<line x1="138" y1="217.0" x2="162" y2="217.0" stroke="#1a1a1a" stroke-width="5"/>
+<line x1="150" y1="217.0" x2="150" y2="300" stroke="#1a1a1a" stroke-width="2"/>
+<text x="190" y="185.0" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="16" fill="#c62828" text-anchor="start" font-weight="bold">+</text>
+<text x="190" y="229.0" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="16" fill="#c62828" text-anchor="start" font-weight="bold">−</text>
+<line x1="150" y1="110" x2="340" y2="110" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="420" y1="110" x2="620" y2="110" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="340" y="88" width="80" height="44" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<text x="380" y="76" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="17" fill="#1a1a1a" text-anchor="middle" font-weight="bold">R</text>
+<line x1="620" y1="110" x2="620" y2="300" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="620" y1="300" x2="150" y2="300" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="230" y1="110" x2="300" y2="110" stroke="#1f5fbf" stroke-width="2"/>
+<polygon points="300,110 291.7,113.4 291.7,106.6" fill="#1f5fbf"/>
+<text x="250" y="96" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="17" fill="#1f5fbf" text-anchor="start" font-weight="bold">I</text>
+<text x="120" y="98" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="15" fill="#c62828" text-anchor="start" font-weight="bold">电源 U</text>
+<line x1="340" y1="156" x2="420" y2="156" stroke="#8a8a8a" stroke-width="1.2" stroke-dasharray="5 4"/>
+<line x1="340" y1="118" x2="340" y2="156" stroke="#8a8a8a" stroke-width="1.2" stroke-dasharray="5 4"/>
+<line x1="420" y1="118" x2="420" y2="156" stroke="#8a8a8a" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="380" y="176" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="15" fill="#8a8a8a" text-anchor="middle" font-weight="normal">U = U_R</text>
+<text x="24" y="356" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="start" font-weight="normal">沿回路走一圈：电源升起的电压 = 电阻降下的电压，即 U = I·R；功率 P = U·I。</text>
+<text x="24" y="382" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#8a8a8a" text-anchor="start" font-weight="normal">这一条就是后面所有“算 Q 点”的根据：把回路画出来，电压升降写成一个等式。</text>
+</svg>

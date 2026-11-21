@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="450" viewBox="0 0 860 450">
+<rect width="860" height="450" fill="#ffffff"/>
+<text x="24" y="32" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="18" fill="#1a1a1a" text-anchor="start" font-weight="bold">图9　逻辑电平与噪声容限</text>
+<line x1="200" y1="90" x2="200" y2="380" stroke="#1a1a1a" stroke-width="1.8"/>
+<text x="190" y="82" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="end" font-weight="bold">V</text>
+<rect x="230" y="120" width="330" height="60" fill="#e8f0fb" stroke="none"/>
+<text x="250" y="156" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1f5fbf" text-anchor="start" font-weight="bold">NMH</text>
+<rect x="230" y="280" width="330" height="60" fill="#fdecea" stroke="none"/>
+<text x="250" y="316" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#c62828" text-anchor="start" font-weight="bold">NML</text>
+<line x1="182" y1="120" x2="222" y2="120" stroke="#1a1a1a" stroke-width="1.6"/>
+<text x="174" y="125" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="end" font-weight="bold">VOH</text>
+<text x="230" y="112" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="12" fill="#8a8a8a" text-anchor="start" font-weight="normal">输出高电平下限</text>
+<line x1="222" y1="120" x2="620" y2="120" stroke="#1a1a1a" stroke-width="0.9" stroke-dasharray="4 4"/>
+<line x1="182" y1="180" x2="222" y2="180" stroke="#1a1a1a" stroke-width="1.6"/>
+<text x="174" y="185" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="end" font-weight="bold">VIH</text>
+<text x="230" y="172" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="12" fill="#8a8a8a" text-anchor="start" font-weight="normal">输入识别为高电平的下限</text>
+<line x1="222" y1="180" x2="620" y2="180" stroke="#1a1a1a" stroke-width="0.9" stroke-dasharray="4 4"/>
+<line x1="182" y1="280" x2="222" y2="280" stroke="#1a1a1a" stroke-width="1.6"/>
+<text x="174" y="285" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="end" font-weight="bold">VIL</text>
+<text x="230" y="272" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="12" fill="#8a8a8a" text-anchor="start" font-weight="normal">输入识别为低电平的上限</text>
+<line x1="222" y1="280" x2="620" y2="280" stroke="#1a1a1a" stroke-width="0.9" stroke-dasharray="4 4"/>
+<line x1="182" y1="340" x2="222" y2="340" stroke="#1a1a1a" stroke-width="1.6"/>
+<text x="174" y="345" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="14" fill="#1a1a1a" text-anchor="end" font-weight="bold">VOL</text>
+<text x="230" y="332" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="12" fill="#8a8a8a" text-anchor="start" font-weight="normal">输出低电平上限</text>
+<line x1="222" y1="340" x2="620" y2="340" stroke="#1a1a1a" stroke-width="0.9" stroke-dasharray="4 4"/>
+<line x1="590" y1="120" x2="590" y2="180" stroke="#1f5fbf" stroke-width="2"/>
+<polygon points="590,120 592.6,126.5 587.4,126.5" fill="#1f5fbf"/>
+<polygon points="590,180 587.4,173.5 592.6,173.5" fill="#1f5fbf"/>
+<line x1="590" y1="280" x2="590" y2="340" stroke="#c62828" stroke-width="2"/>
+<polygon points="590,280 592.6,286.5 587.4,286.5" fill="#c62828"/>
+<polygon points="590,340 587.4,333.5 592.6,333.5" fill="#c62828"/>
+<text x="600" y="155" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="12" fill="#1f5fbf" text-anchor="start" font-weight="normal">NMH = VOH − VIH</text>
+<text x="600" y="315" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="12" fill="#c62828" text-anchor="start" font-weight="normal">NML = VIL − VOL</text>
+<text x="24" y="410" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="13" fill="#1a1a1a" text-anchor="start" font-weight="normal">输出范围 VOH~VOL 必须包住输入识别范围 VIH~VIL；中间两段空白就是噪声容限。</text>
+</svg>
