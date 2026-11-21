@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="900" height="500" fill="#ffffff"/>
+<text x="24" y="34" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="18" fill="#1a1a1a" text-anchor="start" font-weight="bold">图4　微变（小信号）等效电路：三极管 → rbe + β·ib</text>
+<circle cx="110" cy="320" r="26" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="110" y="326" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="18" fill="#1a1a1a" text-anchor="middle" font-weight="normal">~</text>
+<line x1="110" y1="294" x2="110" y2="220" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="110" y1="346" x2="110" y2="420" stroke="#1a1a1a" stroke-width="2"/>
+<text x="54" y="326" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="17" fill="#1f5fbf" text-anchor="start" font-weight="bold">ui</text>
+<line x1="110" y1="220" x2="300" y2="220" stroke="#1a1a1a" stroke-width="2"/>
+<text x="190" y="206" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="16" fill="#1f5fbf" text-anchor="start" font-weight="bold">ib</text>
+<line x1="150" y1="220" x2="185" y2="220" stroke="#1f5fbf" stroke-width="1.6"/>
+<polygon points="185,220 178.5,222.6 178.5,217.4" fill="#1f5fbf"/>
+<line x1="300" y1="220" x2="300" y2="288" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="284" y="288" width="32" height="64" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="300" y1="352" x2="300" y2="420" stroke="#1a1a1a" stroke-width="2"/>
+<text x="252" y="322" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="17" fill="#1a1a1a" text-anchor="end" font-weight="bold">rbe</text>
+<line x1="520" y1="155" x2="520" y2="255" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="520" cy="285" r="30" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="520" y1="265" x2="520" y2="305" stroke="#1a1a1a" stroke-width="2"/>
+<polygon points="520,305 516.6,296.7 523.4,296.7" fill="#1a1a1a"/>
+<line x1="520" y1="315" x2="520" y2="420" stroke="#1a1a1a" stroke-width="2"/>
+<text x="560" y="292" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="17" fill="#1a1a1a" text-anchor="start" font-weight="bold">β·ib</text>
+<line x1="520" y1="155" x2="800" y2="155" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="620" y1="155" x2="620" y2="288" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="604" y="288" width="32" height="64" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="620" y1="352" x2="620" y2="420" stroke="#1a1a1a" stroke-width="2"/>
+<text x="660" y="322" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="17" fill="#1a1a1a" text-anchor="start" font-weight="bold">Rc</text>
+<text x="500" y="136" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="13" fill="#8a8a8a" text-anchor="start" font-weight="normal">（VCC 在交流通路里是地）</text>
+<line x1="700" y1="155" x2="700" y2="288" stroke="#8a8a8a" stroke-width="1.6" stroke-dasharray="6 5"/>
+<rect x="684" y="288" width="32" height="64" fill="#ffffff" stroke="#8a8a8a" stroke-width="1.6" stroke-dasharray="6 5"/>
+<line x1="700" y1="352" x2="700" y2="420" stroke="#8a8a8a" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="716" y="322" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="16" fill="#8a8a8a" text-anchor="start" font-weight="bold">RL</text>
+<line x1="110" y1="420" x2="800" y2="420" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="400" y1="420" x2="400" y2="434" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="374" y1="434" x2="426" y2="434" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="384" y1="442" x2="416" y2="442" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="393" y1="450" x2="407" y2="450" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="800" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<text x="812" y="145" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="17" fill="#c62828" text-anchor="start" font-weight="bold">+</text>
+<circle cx="800" cy="410" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="800" y1="410" x2="800" y2="420" stroke="#1a1a1a" stroke-width="2"/>
+<text x="812" y="418" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="17" fill="#c62828" text-anchor="start" font-weight="bold">−</text>
+<text x="844" y="290" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="17" fill="#1f5fbf" text-anchor="start" font-weight="bold">uo</text>
+<text x="24" y="476" font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif" font-size="15" fill="#1a1a1a" text-anchor="start" font-weight="normal">Au = −β(Rc∥RL)/rbe　　Ri = Rb∥rbe ≈ rbe　　Ro ≈ Rc</text>
+</svg>
